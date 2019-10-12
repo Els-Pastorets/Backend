@@ -1,8 +1,5 @@
 import requests
-
-
-
-#declarem la url de la api
+#declarem la url de la api de tmb
 url = 'https://api.tmb.cat/v1/transit/linies/bus/109/parades?app_id=b6f70443&app_key=8754120bc4e20bc949df9fd773b741e6'
 data = requests.get(url)
 

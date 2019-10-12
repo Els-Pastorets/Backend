@@ -1,0 +1,3 @@
+git add * ->per posar el nom de les carpetes
+git commit -m "Misatge per informar"
+git push
