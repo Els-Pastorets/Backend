@@ -1,5 +1,5 @@
 import requests
-import json
+
 
 
 #declarem la url de la api
